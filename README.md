@@ -1,6 +1,6 @@
 ### Olá!!! Eu sou o Francisco Junior
 
-- 🔭 Hoje trabalho como Operador de Infraestrutura, principalmente com administrações de servidores Microsoft 🙂
+- 🔭 Hoje trabalho como Operador de Infraestrutura, principalmente com administração de servidores Microsoft 🙂
 - 🌱 Estudando Ansible, Git, Docker ... 😃
 - 💬 Gosto de cerveja, um churrasquinho e farofa 😂😋
 
